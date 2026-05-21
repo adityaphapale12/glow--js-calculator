@@ -20,10 +20,3 @@ A simple and stylish calculator built using **HTML, CSS, and JavaScript** with a
 - CSS3 – Styling and glow effects  
 - JavaScript – Functionality and logic  
 
----
-
-## 🚀 How to Use
-
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/your-username/glow-js-calculator.git
